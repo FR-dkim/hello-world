@@ -1,2 +1,3 @@
 # hello-world
-Only For Myself 
+
+Learning how to git for the first time now.
